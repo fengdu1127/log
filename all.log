@@ -1,0 +1,15 @@
+2019-06-04 20:09:41,740 - E:/github/tmp/log/log_test.py[line:33] - DEBUG: debug
+2019-06-04 20:09:41,743 - E:/github/tmp/log/log_test.py[line:34] - INFO: info
+2019-06-04 20:09:41,744 - E:/github/tmp/log/log_test.py[line:35] - WARNING: 警告
+2019-06-04 20:09:41,745 - E:/github/tmp/log/log_test.py[line:36] - ERROR: 报错
+2019-06-04 20:09:41,747 - E:/github/tmp/log/log_test.py[line:37] - CRITICAL: 严重
+2019-06-04 20:29:07,929 - E:/github/tmp/log/log_test2.py[line:33] - DEBUG: debug
+2019-06-04 20:29:07,929 - E:/github/tmp/log/log_test2.py[line:33] - DEBUG: debug
+2019-06-04 20:29:07,932 - E:/github/tmp/log/log_test2.py[line:34] - INFO: info
+2019-06-04 20:29:07,932 - E:/github/tmp/log/log_test2.py[line:34] - INFO: info
+2019-06-04 20:29:07,987 - E:/github/tmp/log/log_test2.py[line:35] - WARNING: 警告
+2019-06-04 20:29:07,987 - E:/github/tmp/log/log_test2.py[line:35] - WARNING: 警告
+2019-06-04 20:29:07,994 - E:/github/tmp/log/log_test2.py[line:36] - ERROR: 报错
+2019-06-04 20:29:07,994 - E:/github/tmp/log/log_test2.py[line:36] - ERROR: 报错
+2019-06-04 20:29:08,001 - E:/github/tmp/log/log_test2.py[line:37] - CRITICAL: 严重
+2019-06-04 20:29:08,001 - E:/github/tmp/log/log_test2.py[line:37] - CRITICAL: 严重

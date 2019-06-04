@@ -1,0 +1,5 @@
+2019-06-04 21:39:24,224 __main__ DEBUG This is a customer debug message
+2019-06-04 21:39:24,224 __main__ INFO This is an customer info message
+2019-06-04 21:39:24,224 __main__ WARNING This is a customer warning message
+2019-06-04 21:39:24,224 __main__ ERROR This is an customer error message
+2019-06-04 21:39:24,224 __main__ CRITICAL This is a customer critical message

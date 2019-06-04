@@ -1,0 +1,15 @@
+2019-06-04 21:29:16,927 __main__ DEBUG This is a customer debug message
+2019-06-04 21:29:16,927 __main__ INFO This is an customer info message
+2019-06-04 21:29:16,928 __main__ WARNING This is a customer warning message
+2019-06-04 21:29:16,928 __main__ ERROR This is an customer error message
+2019-06-04 21:29:16,928 __main__ CRITICAL This is a customer critical message
+2019-06-04 21:30:42,929 __main__ DEBUG This is a customer debug message
+2019-06-04 21:30:42,929 __main__ INFO This is an customer info message
+2019-06-04 21:30:42,929 __main__ WARNING This is a customer warning message
+2019-06-04 21:30:42,929 __main__ ERROR This is an customer error message
+2019-06-04 21:30:42,929 __main__ CRITICAL This is a customer critical message
+2019-06-04 21:30:56,419 __main__ DEBUG This is a customer debug message
+2019-06-04 21:30:56,419 __main__ INFO This is an customer info message
+2019-06-04 21:30:56,419 __main__ WARNING This is a customer warning message
+2019-06-04 21:30:56,419 __main__ ERROR This is an customer error message
+2019-06-04 21:30:56,419 __main__ CRITICAL This is a customer critical message

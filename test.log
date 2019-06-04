@@ -1,0 +1,26 @@
+2019-06-04 20:58:58,618 root:INFO:This is an info message
+2019-06-04 20:58:58,618 root:WARNING:This is a warning message
+2019-06-04 20:58:58,618 root:ERROR:This is an error message
+2019-06-04 20:58:58,618 root:CRITICAL:This is a critical message
+2019-06-04 20:59:12,412 root:INFO:This is an info message
+2019-06-04 20:59:12,413 root:WARNING:This is a warning message
+2019-06-04 20:59:12,413 root:ERROR:This is an error message
+2019-06-04 20:59:12,413 root:CRITICAL:This is a critical message
+04-03-2019 21:03:38 root:INFO:This is an info message
+04-03-2019 21:03:38 root:WARNING:This is a warning message
+04-03-2019 21:03:38 root:ERROR:This is an error message
+04-03-2019 21:03:38 root:CRITICAL:This is a critical message
+04-06-2019 21:04:54 root:INFO:This is an info message
+04-06-2019 21:04:54 root:WARNING:This is a warning message
+04-06-2019 21:04:54 root:ERROR:This is an error message
+04-06-2019 21:04:54 root:CRITICAL:This is a critical message
+2019-06-04 21:13:15,495 __main__ DEBUG This is a customer debug message
+2019-06-04 21:13:15,496 __main__ INFO This is an customer info message
+2019-06-04 21:13:15,500 __main__ WARNING This is a customer warning message
+2019-06-04 21:13:15,505 __main__ ERROR This is an customer error message
+2019-06-04 21:13:15,510 __main__ CRITICAL This is a customer critical message
+2019-06-04 21:13:50,996 __main__ DEBUG This is a customer debug message
+2019-06-04 21:13:50,996 __main__ INFO This is an customer info message
+2019-06-04 21:13:50,996 __main__ WARNING This is a customer warning message
+2019-06-04 21:13:50,997 __main__ ERROR This is an customer error message
+2019-06-04 21:13:50,997 __main__ CRITICAL This is a customer critical message
